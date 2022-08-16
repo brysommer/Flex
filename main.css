@@ -1,0 +1,160 @@
+body {
+    margin: 0px;
+}
+.background {    
+    background-color: #16202C;    
+}
+
+.header {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 15PX 70px 0px;
+    justify-content: space-between;
+}
+
+.footer {
+    background-color: #FFD500;
+    height: 100px;
+}
+
+h2 {
+    color: white;
+    font-size: 18px;
+}
+
+.time {
+    display: block;
+    min-width: 250px;
+    max-height: 128px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+h1 {
+    color: white;
+    font-size: 60px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+}
+
+.title {
+    text-align: center;
+     padding: 15px 60px 0px;
+}
+
+.body {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    padding: 15px 70px 15px;
+}
+
+.column1 {
+    min-height: 300px;   
+}
+
+.column3 {
+   background-color: #8E2B2B; 
+   min-height: 300px;
+   margin: 0px 15px 0px;
+}
+
+.margin {
+    min-width: 20px;
+}
+
+.footer {
+    padding-left: 70px;
+    align-items: center;
+    display: flex;
+    color: black;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.info {
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 17px;
+    padding: 5px;  
+    margin-top: 25px; 
+}
+
+.lineh {
+    background-color: #006277;
+    min-height: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.linew {
+    background-color: #FFFFFF;
+    min-height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.lineg {
+    background-color: #EEEEEE;
+    min-height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.rates {
+    border: 2px solid white;
+}
+
+.act {
+    color: white;
+    font-size: 22px; 
+    min-width: 150px;
+    padding-left: 15px;
+    font-weight: 600;
+}
+
+.currency {
+    font-size: 20px; 
+    min-width: 150px;
+    padding-left: 15px;
+    font-weight: 600;
+}
+
+.rate {
+    font-size: 18px; 
+    min-width: 150px;
+    padding-left: 15px;
+}
+
+.forex {
+    color: white;
+    font-size: 10px; 
+    padding: 3px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.rv {
+    background-color: #F2EDCB;
+    border-radius: 5px;
+}
+
+.kurs {
+    padding: 5px;
+    color: #5e1d1d;
+}
+
+.ln {
+    min-height: 15px;
+}
